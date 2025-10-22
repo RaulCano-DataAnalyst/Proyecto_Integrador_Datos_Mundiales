@@ -18,7 +18,7 @@ Herramienta	Rol principal
 🧩 Estructura del proyecto
 ```
 Proyecto_Integrador_Datos_Mundiales/
-├── world_con_correcciones.sql
+├── world.sql
 ├── Proyecto_Integrador_Datos_Mundiales.ipynb
 ├── Datos_Mundiales.pbix
 └── README.md
