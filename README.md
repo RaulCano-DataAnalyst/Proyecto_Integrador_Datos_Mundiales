@@ -14,11 +14,13 @@ Herramienta	Rol principal
 📊 Power BI	Dashboard interactivo para representar indicadores clave y explorar visualmente las relaciones entre variables.
 
 🧩 Estructura del proyecto
+```
 Proyecto_Integrador_Datos_Mundiales/
 ├── world_con_correcciones.sql
 ├── Proyecto_Integrador_Datos_Mundiales.ipynb
 ├── Datos_Mundiales.pbix
 └── README.md
+```
 
 📊 Principales análisis y visualizaciones
 
