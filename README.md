@@ -1,3 +1,5 @@
+![Dashboard del Proyecto](dashboard.png)
+
 🌍 Proyecto Integrador – Datos Mundiales
 
 Este proyecto forma parte del Programa de Analista de Datos de Unicorn Academy y representa la integración final de todas las competencias desarrolladas a lo largo del curso: modelado de datos, consultas SQL, análisis exploratorio con Python y visualización en Power BI.
